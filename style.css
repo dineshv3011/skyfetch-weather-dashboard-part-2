@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #f4f4f4;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
+
+.loading {
+  color: blue;
+}
+
+#weatherResult {
+  margin-top: 20px;
+  font-size: 18px;
+}
